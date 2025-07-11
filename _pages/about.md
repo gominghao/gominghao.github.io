@@ -9,7 +9,7 @@ redirect_from:
 
 <figure>
   <video autoplay muted loop playsinline width="900" controls>
-    <source src="https://gominghao.github.io/assets/video_background_z3.mp4" type="video/mp4">
+    <source src="https://gominghao.github.io/images/video_background_z3.mp4" type="video/mp4">
   </video>
 </figure>
 
