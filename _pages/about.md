@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<figure>
+  <video autoplay muted loop playsinline width="900" controls>
+    <source src="https://gominghao.github.io/assets/video_background_z3.mp4" type="video/mp4">
+  </video>
+</figure>
+
 I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. James Stone and Eliot Quataert. I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in both theoretical and observational astrophysics.
 
 [Get my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
