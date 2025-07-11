@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+    </header>
+  </div>
+</div>
+
 <figure>
   <video autoplay muted loop playsinline width="900" controls>
     <source src="https://gominghao.github.io/images/video_background_z3.mp4" type="video/mp4">
