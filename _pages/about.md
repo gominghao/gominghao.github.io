@@ -1,23 +1,20 @@
 ---
 permalink: /
-title: "Physics begins in wonder"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
-  <div class="scrim {% if site.cover %}has-cover{% endif %}">
-    <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
-      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
-    </header>
-  </div>
+<div class="about-banner">
+  <img src="/images/header_image_wallhaven.jpg" alt="Banner" style="width:100%;max-height:300px;object-fit:cover;">
+  <!-- Optional: Add text over the banner -->
+  <!-- <div class="banner-text">Welcome to My Page</div> -->
 </div>
 
 <figure>
-  <video autoplay muted loop playsinline width="900" controls>
+  <video autoplay loop playsinline width="960" controls>
     <source src="https://gominghao.github.io/images/video_background_z3.mp4" type="video/mp4">
   </video>
 </figure>
@@ -74,13 +71,14 @@ Supernova remnant
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: Phycsis
-![Physics](/images/header_image_wallhaven.jpg)
-
 Publications
 ======
 
 
 For more info
 ------
+
+Physics begins in wonder
+![Physics](/images/header_image_wallhaven.jpg)
+
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
