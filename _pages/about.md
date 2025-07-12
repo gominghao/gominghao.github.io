@@ -26,6 +26,13 @@ My research interests include:
 - Numerical methods and simulations, GPU computing, new numerical techniques
 - Neutron stars, pulsars, gravitational waves, modified gravity theory
 
+Publications
+======
+<div class="wordwrap">Check out my papers at <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc">ADS</a> and <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+
+Research
+======
+
 Black hole accretion and feedback
 ------
 
@@ -58,10 +65,6 @@ We present a ``cyclic zoom'' method to capture the dynamics of accretion flows o
 Supernova remnant
 ------
 We investigate the evolution of supernova remnants (SNRs) in a two-phase cloudy medium by performing a series of high-resolution (up to $$\Delta x\approx0.01\,\mathrm{pc}$$), 3D hydrodynamical simulations including radiative cooling and thermal conduction. We aim to reach a resolution that directly captures the shock-cloud interactions for the majority of the clouds initialized by the saturation of thermal instability. In comparison to the SNR in a uniform medium with the volume filling warm medium, the SNR expands similarly (following $$\propto t^{2/5}$$) but sweeps up more mass as the cold clouds contribute before shocks in the warm medium become radiative. However, the SNR in a cloudy medium continuously loses energy after shocks toward the cold clouds cool, resulting in less hot gas mass, thermal energy, and terminal momentum. Thermal conduction has little effect on the dynamics of the SNR but smooths the morphology and modifies the internal structure by increasing the density of hot gas by a factor of $$\sim 3-5$$. The simulation results are not fully consistent with many previous 1D models describing the SNR in a cloudy medium including a mass loading term. By direct measurement in the simulations, we find that, apart from the mass source, the energy sink is also important with a spatially flat cooling rate $$\dot{e}\propto t^{-11/5}$$. As an illustration, we show an example 1D model including both mass source and energy sink terms (in addition to the radiative cooling in the volume filling component) that better describes the structure of the simulated SNR.
-
-Publications
-======
-
 
 Can one stand before the void, embraced by nature, and not ask why?
 ------
