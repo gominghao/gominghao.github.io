@@ -15,7 +15,7 @@ redirect_from:
 
 Welcome! I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in theoretical, numerical, and observational astrophysics.
 
-[Get my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+[Find my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======
 
 I major in physics with particular interest in astrophysics and broad background in mathematics and computer science. I am interested in a variety of intriguing topics in astronomy and astrophysics, especially black hole astrophysics, galaxy formation, cosmology, gravitational wave and gravity test. I generally use numerical techniques and tools to investigate the abundant phenomenon in various fields in astrophysics. I have experience on doing research involving theoretical, numerical and observational astrophysics, e.g., coevolution between supermassive black holes and host galaxies, black hole accretions as well as modified gravity and the application onto neutron stars.
