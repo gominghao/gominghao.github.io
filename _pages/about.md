@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="about-banner">
-  <img src="/images/header_image_wallhaven.jpg" alt="Banner" style="width:100%;max-height:300px;object-fit:cover;">
-  <!-- Optional: Add text over the banner -->
-  <!-- <div class="banner-text">Welcome to My Page</div> -->
-</div>
-
 <figure>
   <video autoplay loop playsinline width="960" controls>
     <source src="https://gominghao.github.io/images/video_background_z3.mp4" type="video/mp4">
