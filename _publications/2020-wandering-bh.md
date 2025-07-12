@@ -3,7 +3,7 @@ title: "Hunting for Wandering Massive Black Holes"
 authors: "Minghao Guo, Kohei Inayoshi, Tomonari Michiyama, and Luis C. Ho"
 collection: publications
 category: manuscripts
-date: 2020
+date: 2020-01-01
 venue: 'ApJ'
 journal: "ApJ 901, 39 (2020)"
 year: 2020

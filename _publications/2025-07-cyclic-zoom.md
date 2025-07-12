@@ -3,7 +3,7 @@ title: "Cyclic Zoom: Multiscale GRMHD Modeling of Black Hole Accretion and Feedb
 authors: "Minghao Guo, James M. Stone, Eliot Quataert, and Volker Springel"
 collection: publications
 category: manuscripts
-date: 2025
+date: 2025-07-08
 venue: 'ApJ'
 journal: "ApJ 987, 202 (2025)"
 year: 2025

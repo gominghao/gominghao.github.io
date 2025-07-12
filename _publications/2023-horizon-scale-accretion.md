@@ -3,7 +3,7 @@ title: "Toward Horizon-scale Accretion onto Supermassive Black Holes in Elliptic
 authors: "Minghao Guo, James M. Stone, Chang-Goo Kim, and Eliot Quataert"
 collection: publications
 category: manuscripts
-date: 2023
+date: 2023-01-01
 venue: 'ApJ'
 journal: "ApJ 946, 26 (2023)"
 year: 2023

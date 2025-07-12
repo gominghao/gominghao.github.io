@@ -3,7 +3,7 @@ title: "Extended reduced-order surrogate models for scalar-tensor gravity in the
 authors: "Minghao Guo, Junjie Zhao, and Lijing Shao"
 collection: publications
 category: manuscripts
-date: 2021
+date: 2021-01-01
 venue: 'PRD'
 journal: "PhRvD 104, 104065 (2021)"
 year: 2021

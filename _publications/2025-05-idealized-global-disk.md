@@ -4,7 +4,7 @@ authors: "Minghao Guo, Eliot Quataert, Jonathan Squire, Philip F. Hopkins, and J
 collection: publications
 category: manuscripts
 journal: "arXiv:2505.12671 [astro-ph.HE]"
-year: 2025
+year: 2025-01-01
 link: "https://arxiv.org/abs/2505.12671"
 ---
 
