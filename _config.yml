@@ -17,6 +17,7 @@ url                      : https://gominghao.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gominghao/gominghao.github.io"
 cover                    : "https://mh-guo.github.io/assets/header_image_wallhaven.jpg"
+cover_video              : "https://gominghao.github.io/images/video_background_z3.mp4"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,9 +27,10 @@ author:
   avatar           : "MG_2024.png"
   name             : "Minghao Guo (郭明浩)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Astrophysics"
+  bio              : "PhD student in Astrophysical Sciences"
   location         : "Milky Way"
   employer         : "Princeton University"
+  employer_url     : "https://web.astro.princeton.edu/"
   uri              : "https://mh-guo.github.io/"
   email            : "mhguo@princeton.edu" 
 

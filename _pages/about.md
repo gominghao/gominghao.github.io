@@ -1,19 +1,13 @@
 ---
 permalink: /
-# title: "Welcome!"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<figure>
-  <video autoplay muted loop playsinline width="960" controls>
-    <source src="https://gominghao.github.io/images/video_background_z3.mp4" type="video/mp4">
-  </video>
-</figure>
-
-Welcome! I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in theoretical, numerical, and observational astrophysics.
+I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in theoretical, numerical, and observational astrophysics.
 
 [Find my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
 ======
@@ -35,6 +29,12 @@ Research
 
 Black hole accretion and feedback
 ------
+
+<figure>
+  <video autoplay muted loop playsinline width="960" controls>
+    <source src="https://gominghao.github.io/images/video_background_z3.mp4" type="video/mp4">
+  </video>
+</figure>
 
 I am currently working on the accretion onto supermassive black hole project, which aims to study the coevolution between supermassive black holes and their host galaxies. The project involves a series of zoom-in simulations that cover the entire range from galaxy formation down to the event horizon of black holes.
 
