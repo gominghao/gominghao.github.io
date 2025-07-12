@@ -24,7 +24,13 @@ Position
   * Institute for Advanced Study
   * School of Natural Sciences
   * Supervisor: James M. Stone
-  
+
+Research
+======
+  1. Black hole
+  1. Supernova remnant
+  1. Multiphase ISM
+
 Skills
 ======
 * Massive parallel computing on supercomputer, dataset analyzing and visualization
