@@ -50,14 +50,14 @@ My research interests include:
 - Numerical methods and simulations, GPU computing, new numerical techniques
 - Neutron stars, pulsars, gravitational waves, modified gravity theory
 
-Cyclic Zoom: solving the multiscale problem
+[Cyclic Zoom: Solving the multiscale problem]((https://iopscience.iop.org/article/10.3847/1538-4357/add1da))
 ------
 
 ![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)
 
 We present a "cyclic zoom" method to capture the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in general relativistic magnetohydrodynamic (GRMHD) simulations. In this method, we cyclically zoom out (derefine) and zoom in (refine) the simulation domain while using a central mask region containing a careful treatment of the coarsened fluid variables to preserve the small-scale physics, particularly the magnetic field dynamics. The method can accelerate GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation. We demonstrate the validity of the technique using a series of tests, including spherically symmetric Bondi accretion, the Blandford-Znajek monopole, magnetized turbulent Bondi accretion, accretion of a magnetized rotating torus, and the long-term evolution of an accreting torus about both Schwarzschild and Kerr black holes. As applications, we simulate Bondi and rotating torus accretion onto black holes from galactic scales, covering an extremely large dynamic range. In Bondi accretion, the accretion rate is suppressed relative to the Bondi rate by $$\sim(10r_\mathrm{g}/r_\mathrm{B})^{1/2}$$ with a feedback power of $$\sim 0.01 \dot{M} c^2$$ for vanishing spin, and $$\sim 0.1 \dot{M} c^2$$ for spin $$a\approx0.9$$. In the long-term evolution of a rotating torus, the accretion rate decreases with time as $$\dot{M}\propto t^{-2}$$ on timescales much longer than the viscous timescale, demonstrating that our method can capture not only quasi-steady problems but also secular evolution. Our new method likewise holds significant promise for applications to many other problems that need to cover vast spatial and temporal scales.
 
-Zoom-in simulations of black hole accretion and feedback
+[Zoom-in simulations of black hole accretion and feedback](https://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7)
 ------
 
 <figure>
@@ -80,7 +80,7 @@ See below for a video of the hydrodynamic case.
 
  We find that the accretion flow takes the form of multiphase gas at radii less than about a kpc. The cold gas accretion includes two dynamically distinct stages: the typical disk stage in which the cold gas resides in a rotationally supported disk and relatively rare chaotic stages ($$ \lesssim 10\% $$ of the time) in which the cold gas inflows via chaotic streams. Though cold gas accretion dominates the time-averaged accretion rate at intermediate radii, accretion at the smallest radii is dominated by hot virialized gas at most times.
 
-Supernova remnant in a Cloudy Multiphase Interstellar Medium
+Supernova remnant in a cloudy multiphase interstellar medium
 ------
 
 ![Supernova remnant](/images/fig_snr_render_cut.png)
