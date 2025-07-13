@@ -94,3 +94,20 @@
     }
   }
 }
+
+/*
+*	Site Description/Signature (right)
+*/
+.site-signature {
+  margin-top: 1em;
+  @include span-columns(12);
+  @include media ($tablet) {
+    @include span-columns(4);
+    margin-right: 0;
+    margin-top: 0;
+  }
+  font-size: 0.9em;
+  a {
+    text-decoration: underline;
+  }
+}
