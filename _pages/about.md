@@ -7,9 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am interested in theoretical, numerical, and observational astrophysics.
+I am Minghao Guo (郭明浩), currently a graduate student at the <a href="https://web.astro.princeton.edu/">Department of Astrophysical Sciences, Princeton University</a>, supervised by Profs. [James Stone](https://www.ias.edu/scholars/stone) and [Eliot Quataert](https://www.astro.princeton.edu/~quataert/). I was an undergraduate of <a href="https://www.pku.edu.cn/">Peking Unversity</a>. I am widely interested in theoretical, numerical, and observational astrophysics. I am also a visiting graduate student at the [Institute for Advanced Study](https://www.ias.edu) and a member of the [Learning the Universe (LtU) collaboration](https://learning-the-universe.org).
+
+My thesis focus on multiscale multiphase modeling on the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in general relativistic magnetohydrodynamic (GRMHD) simulations. Simply using GRMHD simulations that resolve horizon scales to compute the feedback from the event horizon to galactic scales is generally infeasible due to the very restrictive time step constraints. To tackle this problem, we develop a series of method to accelerate the GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation and apply it to various problems that need to cover vast spatial and temporal scales.
+
+I love sharing our wonderful universe to the public, and I give outreach talks at [Astronomy On Tap Trenton](https://astronomyontap.org) and teach astronomy in the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative). Outside of academia, I like the nature in general (climbing, hiking, swimming, gardening).
+
+Last updated July, 2025.
 
 [Find my CV here](https://mh-guo.github.io/CV_Minghao_Guo.pdf)
+======
+
+Publications
+======
+Check out the full list at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc) and [Google Scholar]({{site.author.googlescholar}}). Below are selected works:
+
+1. **Minghao Guo**, James M. Stone, Eliot Quataert, and Volker Springel, Cyclic Zoom: Multiscale GRMHD Modeling of Black Hole Accretion and Feedback, [ApJ 987, 202 (2025)](https://iopscience.iop.org/article/10.3847/1538-4357/add1da), [arXiv:2504.16802 [astro-ph.HE]](https://arxiv.org/abs/2504.16802) .
+
+1. **Minghao Guo**, Eliot Quataert, Jonathan Squire, Philip F. Hopkins, and James M. Stone, Idealized Global Models of Accretion Disks with Strong Toroidal Magnetic Fields, [arXiv:2505.12671 [astro-ph.HE]](https://arxiv.org/abs/2505.12671) .
+
+1. **Minghao Guo**, James M. Stone, Eliot Quataert, and Chang-Goo Kim, Magnetized Accretion onto and Feedback from Supermassive Black Holes in Elliptical Galaxies, [ApJ 973, 141 (2024)](https://iopscience.iop.org/article/10.3847/1538-4357/ad5fe7), [arXiv:2405.11711 [astro-ph.HE]](https://arxiv.org/abs/2405.11711) .
+
+1. **Minghao Guo**, James M. Stone, Chang-Goo Kim, and Eliot Quataert, Toward Horizon-scale Accretion onto Supermassive Black Holes in Elliptical Galaxies, [ApJ 946, 26 (2023)](https://iopscience.iop.org/article/10.3847/1538-4357/acb81e), [arXiv:2211.05131 [astro-ph.HE]](https://arxiv.org/abs/2211.05131) .
+
+1. **Minghao Guo**, Junjie Zhao, and Lijing Shao, Extended reduced-order surrogate models for scalar-tensor gravity in the strong field and applications to binary pulsars and gravitational waves, [PhRvD 104, 104065(2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104065), [arXiv:2106.01622 [gr-qc]](https://arxiv.org/abs/2106.01622) .
+
+1. **Minghao Guo**, Kohei Inayoshi, Tomonari Michiyama, and Luis C. Ho, Hunting for Wandering MassiveBlack Holes, [ApJ 901, 39 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/abacc1), [arXiv:2006.08203 [astro-ph.HE]](https://arxiv.org/abs/2006.08203) .
+
+1. **Minghao Guo**, Min Du, Luis C. Ho, Victor P. Debattista, and Dongyao Zhao, A New Channel of BulgeFormation via the Destruction of Short Bars, [ApJ 888, 65 (2020)](https://iopscience.iop.org/article/10.3847/1538-4357/ab584a), [arXiv:1911.07002 [astro-ph.GA]](https://arxiv.org/abs/1911.07002) .
+
+
+Research
 ======
 
 I major in physics with particular interest in astrophysics and broad background in mathematics and computer science. I am interested in a variety of intriguing topics in astronomy and astrophysics, especially black hole astrophysics, galaxy formation, cosmology, gravitational wave and gravity test. I generally use numerical techniques and tools to investigate the abundant phenomenon in various fields in astrophysics. I have experience on doing research involving theoretical, numerical and observational astrophysics, e.g., coevolution between supermassive black holes and host galaxies, black hole accretions as well as modified gravity and the application onto neutron stars.
@@ -20,14 +48,14 @@ My research interests include:
 - Numerical methods and simulations, GPU computing, new numerical techniques
 - Neutron stars, pulsars, gravitational waves, modified gravity theory
 
-Publications
-======
-Check out my papers at [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A%22Guo%2C%20Minghao%22&sort=date%20desc%2C%20bibcode%20desc) and [Google Scholar]({{site.author.googlescholar}})
+Cyclic Zoom: solveing the multiscale problem
+------
 
-Research
-======
+![Cyclic Zoom](/images/fig_cyclic_zoom_method.png)
 
-Black hole accretion and feedback
+We present a ``cyclic zoom'' method to capture the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in general relativistic magnetohydrodynamic (GRMHD) simulations. In this method, we cyclically zoom out (derefine) and zoom in (refine) the simulation domain while using a central mask region containing a careful treatment of the coarsened fluid variables to preserve the small-scale physics, particularly the magnetic field dynamics. The method can accelerate GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation. We demonstrate the validity of the technique using a series of tests, including spherically symmetric Bondi accretion, the Blandford-Znajek monopole, magnetized turbulent Bondi accretion, accretion of a magnetized rotating torus, and the long-term evolution of an accreting torus about both Schwarzschild and Kerr black holes. As applications, we simulate Bondi and rotating torus accretion onto black holes from galactic scales, covering an extremely large dynamic range. In Bondi accretion, the accretion rate is suppressed relative to the Bondi rate by $$\sim(10r_\mathrm{g}/r_\mathrm{B})^{1/2}$$ with a feedback power of $$\sim 0.01 \dot{M} c^2$$ for vanishing spin, and $$\sim 0.1 \dot{M} c^2$$ for spin $$a\approx0.9$$. In the long-term evolution of a rotating torus, the accretion rate decreases with time as $$\dot{M}\propto t^{-2}$$ on timescales much longer than the viscous timescale, demonstrating that our method can capture not only quasi-steady problems but also secular evolution. Our new method likewise holds significant promise for applications to many other problems that need to cover vast spatial and temporal scales.
+
+Zoom-in simulations of black hole accretion and feedback
 ------
 
 <figure>
@@ -44,14 +72,7 @@ Black hole accretion and feedback
   <figcaption> Zoom-in hydrodynamic simulations of black hole accretion from galactic scales.</figcaption>
 </figure>
 
-I am currently working on the accretion onto supermassive black hole project, which aims to study the coevolution between supermassive black holes and their host galaxies. The project involves a series of zoom-in simulations that cover the entire range from galaxy formation down to the event horizon of black holes.
-
-Multiscales
-------
-
-**Cyclic Zoom**
-
-We present a ``cyclic zoom'' method to capture the dynamics of accretion flows onto black holes across a vast range of spatial and temporal scales in general relativistic magnetohydrodynamic (GRMHD) simulations. In this method, we cyclically zoom out (derefine) and zoom in (refine) the simulation domain while using a central mask region containing a careful treatment of the coarsened fluid variables to preserve the small-scale physics, particularly the magnetic field dynamics. The method can accelerate GRMHD simulations by $$\gtrsim 10^5$$ times for problems with large scale separation. We demonstrate the validity of the technique using a series of tests, including spherically symmetric Bondi accretion, the Blandford-Znajek monopole, magnetized turbulent Bondi accretion, accretion of a magnetized rotating torus, and the long-term evolution of an accreting torus about both Schwarzschild and Kerr black holes. As applications, we simulate Bondi and rotating torus accretion onto black holes from galactic scales, covering an extremely large dynamic range. In Bondi accretion, the accretion rate is suppressed relative to the Bondi rate by $$\sim(10r_\mathrm{g}/r_\mathrm{B})^{1/2}$$ with a feedback power of $$\sim 0.01 \dot{M} c^2$$ for vanishing spin, and $$\sim 0.1 \dot{M} c^2$$ for spin $$a\approx0.9$$. In the long-term evolution of a rotating torus, the accretion rate decreases with time as $$\dot{M}\propto t^{-2}$$ on timescales much longer than the viscous timescale, demonstrating that our method can capture not only quasi-steady problems but also secular evolution. Our new method likewise holds significant promise for applications to many other problems that need to cover vast spatial and temporal scales.
+We use a series of zoom-in simulations that cover the entire range from galaxy formation down to the event horizon of black holes. In this way, we can model the accretion onto supermassive black holes using realistic initial conditions, which aims to study the coevolution between supermassive black holes and their host galaxies.
 
 
 Supernova remnant
