@@ -59,13 +59,15 @@
 }
 
 .page__footer-copyright {
-  width: 30%;
+  width: 40%;
   font-family: $global-font-family;
   font-size: $type-size-7;
+  padding: 1em;
 }
 
 .page__footer-follow {
-  width: 40%;
+  width: 30%;
+  padding: 1em;
   ul {
     margin: 0;
     padding: 0;
